@@ -10,7 +10,7 @@ Work with ReactNative, TypeScript and Json Server
 ---
 
 <p align="center">
-  <img width="90%" src="src/assets/to_readme/planrmanager.gif">
+  <img width="300" src="src/assets/to_readme/planrmanager.gif">
 </p>
 
 
