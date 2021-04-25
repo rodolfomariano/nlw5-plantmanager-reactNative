@@ -16,6 +16,7 @@ Work with ReactNative, TypeScript and Json Server
 
 ## Getting Started
 
+
 First, install all dependencies:
 
 ```bash
@@ -24,13 +25,14 @@ npm install
 yarn
 ```
 
-Second, run json server:
+Second, install and run json server:
 
 ```bash
+npm install -g json-server
 yarn server
 ```
 
-First, run the development server:
+third, run the development server:
 
 ```bash
 npm run dev
@@ -38,4 +40,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [Run expo](https://docs.expo.io/)
