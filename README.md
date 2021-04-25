@@ -35,9 +35,7 @@ yarn server
 third, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+yarn start
 ```
 
 Open [Run expo](https://docs.expo.io/)
