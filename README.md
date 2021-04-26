@@ -5,7 +5,7 @@ An app to remember to water plants
 
 Project carried out during the Next Level Week (NLW) event, where the company Rocketseat offers study trails, so that the Dvs reach the next level in their careers.
 
-Work with ReactNative, TypeScript and Json Server
+Work with ReactNative, TypeScript, Json Server and Expo
 
 ---
 
