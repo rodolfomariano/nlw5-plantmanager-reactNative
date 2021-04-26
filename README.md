@@ -25,7 +25,7 @@ npm install
 yarn
 ```
 
-###Second, install and run json server:
+<h3>Second, install and run json server:</h3>
 
 Config scripts in your package.json with your IP in --host
 
@@ -44,7 +44,7 @@ npm install -g json-server
 yarn server
 ```
 
-###third, run the development server:
+<h3>Third, run the development server:</h3>
 
 ```bash
 yarn start
