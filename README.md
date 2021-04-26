@@ -17,7 +17,7 @@ Work with ReactNative, TypeScript, Json Server and Expo
 ## Getting Started
 
 
-First, install all dependencies:
+###First, install all dependencies:
 
 ```bash
 npm install
@@ -25,7 +25,7 @@ npm install
 yarn
 ```
 
-Second, install and run json server:
+###Second, install and run json server:
 
 Config scripts in your package.json with your IP in --host
 
@@ -44,7 +44,7 @@ npm install -g json-server
 yarn server
 ```
 
-third, run the development server:
+###third, run the development server:
 
 ```bash
 yarn start
