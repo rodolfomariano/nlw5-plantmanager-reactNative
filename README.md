@@ -27,7 +27,7 @@ yarn
 
 Second, install and run json server:
 
-Config scripts in your package.json with you IP in --host
+Config scripts in your package.json with your IP in --host
 
 ```json
 "server": "json-server ./src/services/server.json --host 192.168.0.20 --port 3333 --delay 700"
