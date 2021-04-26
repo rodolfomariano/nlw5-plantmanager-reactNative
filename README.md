@@ -27,6 +27,18 @@ yarn
 
 Second, install and run json server:
 
+Config scripts in your package.json with you IP in --host
+
+```json
+"server": "json-server ./src/services/server.json --host 192.168.0.20 --port 3333 --delay 700"
+```
+
+In src/services/api.ts add your ip in baseURL
+```ts
+baseURL: 'http://192.168.0.20:3333'
+```
+
+Install json-server and run
 ```bash
 npm install -g json-server
 yarn server
