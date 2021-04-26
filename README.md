@@ -17,7 +17,7 @@ Work with ReactNative, TypeScript, Json Server and Expo
 ## Getting Started
 
 
-###First, install all dependencies:
+<h3>First, install all dependencies:</h3>
 
 ```bash
 npm install
